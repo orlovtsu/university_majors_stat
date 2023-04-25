@@ -141,7 +141,7 @@ Overall, based on our analysis, we can conclude that the major an individual cho
 
 ## Gratitudes 
 
-I would like to special thank [Dr. Qingrun Zhang](https://www.linkedin.com/in/qingrun-zhang-08790427/) and [Dr. James McCurdy](https://www.linkedin.com/in/mjamesmccurdy/)  for the very useful feedback and great insights I received from her course and my project partners [Shrivarshini Balaji](https://www.linkedin.com/in/shrivarshini-balaji-999551188/) and [Niloofar Mirzadzare](https://www.linkedin.com/in/niloofar-mirzadzare-280211271/) for productive cooperation, responsibility and excellent communication.
+I would like to special thank [Dr. Qingrun Zhang](https://www.linkedin.com/in/qingrun-zhang-08790427/) and [Dr. James McCurdy](https://www.linkedin.com/in/mjamesmccurdy/)  for the very useful feedback and great insights I received from thier course and my project partners [Shrivarshini Balaji](https://www.linkedin.com/in/shrivarshini-balaji-999551188/) and [Niloofar Mirzadzare](https://www.linkedin.com/in/niloofar-mirzadzare-280211271/) for productive cooperation, responsibility and excellent communication.
 
 
 ## References 
