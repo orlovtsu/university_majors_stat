@@ -48,11 +48,11 @@ Bootstrap confidence intervals for the unemployment rate:
 
 ![Bootstrap confidence intervals for the unemployment rate](/images/bootstrap_unemployment.png)
 
-![Differences](/university_majors_stat/images/diff1.png)
+![Differences](/images/diff1.png)
 
 Bootstrap confidence intevals for differences of the mean unemployment rate and unemployment rate by category:
 
-![Bootstrap confidence intevals for differences of the mean unemployment rate and unemployment rate by category](/university_majors_stat/images/bootstrap_unemployment_diff.png)
+![Bootstrap confidence intevals for differences of the mean unemployment rate and unemployment rate by category](/images/bootstrap_unemployment_diff.png)
 
 Based on data and graphs above, we can infer that in most of the Major categories the population mean does not fall into the confidence interval. We conclude that our null hypothesis is rejected. All major categories has their own unemployment rates.
 
